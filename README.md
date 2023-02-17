@@ -4,34 +4,36 @@
 
 Submitted by: **Maggie Rae LaFratta**
 
-**Scavenger Hunt** is an app that ... [TODO] 
+**Scavenger Hunt** is an app that uses photos to complete a scavenger hunt task list. When a photo is selected for a task, it will complete it & show where the photo was taken on the map.
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] App displays list of hard-coded tasks
-- [ ] When a task is tapped it navigates the user to a task detail view
-- [ ] When user adds photo to complete the tasks, it marks the task as complete
-- [ ] When adding photo of task, the location is added
-- [ ] User returns to home page (list of tasks) and the status of your task is updated to complete
+- [X] App displays list of hard-coded tasks
+- [X] When a task is tapped it navigates the user to a task detail view
+- [X] When user adds photo to complete the tasks, it marks the task as complete
+- [X] When adding photo of task, the location is added
+- [X] User returns to home page (list of tasks) and the status of your task is updated to complete
  
-The following **optional** features are implemented:
-
-- [ ] User can launch camera to snap a picture	
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-GIF created with ...  
+
+
+https://user-images.githubusercontent.com/122281308/219565906-a3983165-1fb9-43f0-8367-a94301869849.mp4
+
+
+GIF created with Kap
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Initially, some photos that were added did not end up having any geographical locations, causing errors. This was fixed easily.
 
 ## License
 
